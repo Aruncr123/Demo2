@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3cc0b6c1978f1110937379100153af3a" extends="ast_contract" label="Testing1" max_length="40" name="x_893901_demo_testing1" type="collection"/>
+</database>
